@@ -35,6 +35,8 @@ Hasil ekstraksi kemudian digunakan untuk membangun dataset dan melakukan **klasi
 Dataset yang digunakan berasal dari:
 **Indonesian Public Figure Faces**
 
+https://www.kaggle.com/datasets/arifnuriman/indonesian-public-figure-faces
+
 ⚠️ **PENTING:**
 Dataset asli berisi folder berdasarkan nama influencer, sehingga perlu dilakukan preprocessing manual.
 
